@@ -1,0 +1,6 @@
+{
+  "AppConfiguration": {
+    "InputColumnNames": "CountryCode,Cost",
+    "OutputTxtFilePath": "..\\..\\..\\..\\CsvShortTest\\TestFiles\\Output.txt"
+  }
+}
